@@ -1,5 +1,5 @@
 ## My Discord:
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/:567693463160750101)](https://discord.com/users/:567693463160750101)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/567693463160750101?theme=light&bg=809ecf&animated=false&hideDiscrim=true)]
 
 ## 🌍 Programming languages:
 
